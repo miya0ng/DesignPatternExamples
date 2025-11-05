@@ -38,9 +38,9 @@ public class MergeSortStrategy<T> : ISortContext<T>, IComparer<T>
 
     public void Sort(T[] collection)
     {
-       while (Divide(collection))
-        {
+       //while (Divide(collection))
+       // {
 
-        }
+       // }
     }
 }
